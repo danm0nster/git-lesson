@@ -1,2 +1,3 @@
 pos: Kristian is awesome!
 neg: pandas are cute!
+pos: agreed
