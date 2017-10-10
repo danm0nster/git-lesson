@@ -4,7 +4,7 @@ neg: More exercises to get a hand of it (but requires more time).
 pos: simple stuff - easy to understand.
 pos: I felt I was able to follow all the terminal stuff.
 neg: Would have been good to find info on other commands/things one can do.
-pos: level was low - which is good, but would be nice to know in advance so UNIX trained people could skip it maybe.
+neg: level was low - which is good, but would be nice to know in advance so UNIX trained people could skip it maybe.
 neg: I would have liked a better structure when going through the different commands.
 pos: Good intro to the basics.
 pos: I learned something.
@@ -19,7 +19,7 @@ neg: Missing introduction on why and how all this language can be used later.
 pos: The beginning moved at an easy pace that was sinmple to follow. Good intro to the system.
 neg: Less material to cover, to avoid the 'rush' feeling.
 pos: God start mht pacing.
-pos: Godt at der var tid til spørgsmål.
+pos: Godt at der var god tid til spørgsmål.
 neg: Hvis pensum er for stort, så prioriter det, så undgås den lidt hurtige afslutning.
 pos: Very intuitive and easy to follow to begin with.
 neg: The last part was a bit rushed, and it became a bit abstract what it was that we were doing.
