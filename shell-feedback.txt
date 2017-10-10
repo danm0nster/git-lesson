@@ -1,0 +1,57 @@
+neg: A bit wrapped up in the end.
+neg: Maybe need more structure?
+neg: More exercises to get a hand of it (but requires more time).
+pos: simple stuff - easy to understand.
+pos: I felt I was able to follow all the terminal stuff.
+neg: Would have been good to find info on other commands/things one can do.
+pos: level was low - which is good, but would be nice to know in advance so UNIX trained people could skip it maybe.
+neg: I would have liked a better structure when going through the different commands.
+pos: Good intro to the basics.
+pos: I learned something.
+pos: Good introduction to the shell and potential uses.
+pos: Content appeared to be comprehensive.
+neg: A bit too basic for me.
+pos: Good to have a common data set to work with all together.
+neg: Problems with Windows.
+neg: Some commands didn't work for me.
+pos: Unix. Basic knowledge. Easy to get around.
+neg: Missing introduction on why and how all this language can be used later.
+pos: The beginning moved at an easy pace that was sinmple to follow. Good intro to the system.
+neg: Less material to cover, to avoid the 'rush' feeling.
+pos: God start mht pacing.
+pos: Godt at der var tid til spørgsmål.
+neg: Hvis pensum er for stort, så prioriter det, så undgås den lidt hurtige afslutning.
+pos: Very intuitive and easy to follow to begin with.
+neg: The last part was a bit rushed, and it became a bit abstract what it was that we were doing.
+neg: At times it felt somewhat rushed due to time.
+pos: Clear and well-structured overview of git-bash.
+neg: Maybe look a bit more into the possibilities that the loops can bring.
+pos: It was very good that we were able to follow the progress on screen.
+pos: Thorough step-by-step.
+pos: Easy to follow.
+pos: Relaxed atmosphere.
+pos: can use what we learned as a stepping stone to learn more myself.
+neg: Structure a bit intransparent.
+pos: Nice, easy introduction to Unix SHELL
+neg: Some confusion on installing Python. Instructor on Mac vs. others on Windows
+pos: Nice and laid back way to have the Unix shell introduced in.
+pos: Handy to have step-by-step guidance with time for questions.
+pos: Nice to follow the code on the projector.
+neg: Maybe a bit too many irrelevant questions. Not your fault. Maybe just leave some of it next time.
+pos: Nice setup for trying out the commands as they are presented.
+pos: Teacher has large knowledge of the subject.
+neg: Slow progress.
+neg: Very basic stuff presented.
+neg: A bit more background knowledge about the context of programming and the different concepts.
+pos: Easy to follow.
+neg: It would be handy if we had a list of commands used for shell beforehand. Ex. ls=list, rm=remove,...
+pos: Godt intro begynderniveau.
+neg: Måske en mini tutorial som all kunne have lavet hjemmefra så man kan få de mest basale på plads inden man ankommer.
+pos: Slow steps are good.
+neg: There must be a good text editor somewher that works for all.
+neg: Would be handy for nano text editor guideline on website to come across as an instruction, not a suggestion, as many students didn't have nano.
+neg: More air in class.
+pos: Good workflow, issues of individuals did not interrupt the class much
+pos: Could catch on easily.
+pos: Good answers to questions.
+pos: Answering questions nicely.
